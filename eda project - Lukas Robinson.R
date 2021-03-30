@@ -28,6 +28,8 @@ Phacelia_distans_date<-filter(Phacelia_distans, year(date_collected)%in%c(2015,2
 
 #plot data
 
+map('world',fill = T , col= "grey", bg = "light blue",xlim = c(-180,-20),ylim = c(-60,80))
+plot(Encelia_farinosa,col = "green",add = T)
 
 #Citation
 
@@ -38,6 +40,4 @@ R.Version()
 
 RStudio.Version()
 
-one author = (merkord 2020)
-two authors = (Merkord and Slaughter 2020)
-three authors = (Merkord et al. 2020)
+
