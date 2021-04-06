@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, results = FALSE, message=FALSE, warning=FALSE)
 ```
 
 ## R Markdown
@@ -20,13 +20,15 @@ Climate change here on Earth is at an alarming stage, with a steady increase in 
 
 ### Data Acquisition
 
-For this project, I obtained data from the Botanical Information and Ecology Network (BIEN, 2021). This data was acquired using the R package known as BIEN (Maitner, 2020). BIEN was used to obtain information about plant distribution and abundance over numerous years. No special access was required to access this resource I just needed to download the package into R Studio before looking at the data. Since the data from the BIEN package is so large I narrowed down my search for a good research project by searching for three plant species using information found from azstateparks.com
+For this project, I obtained data from the Botanical Information and Ecology Network (BIEN, 2021). This data was acquired using the R package known as BIEN (Maitner, 2020). BIEN was used to obtain information about plant distribution and abundance over numerous years. No special access was required to access this resource I just needed to download the package into R Studio before looking at the data. Since the data from the BIEN package is so large I narrowed down my search for a good research project by searching for three plant species using information found from azstateparks.com. 
 
 ### Data Preparation
 
-Data was first prepared for analysis by filtering through all the species in the data to only the plant species that I wanted to look at. I did this by using the BIEN_occurrence_species(species="species") function for each of the three species. 
+Data was first prepared for analysis by filtering through all the plant species in the BIEN package to only the three plant species that I wanted to look at. 
 
-Next, to look at the specific dates I used the filter("species", year(date_collected)%in%c("years")) function to filter out the three years that I needed. This helped me understand how big my sample size will be for this experiment. 
+Once I filtered out my three species I then bound these three data sets into one data set and simplified that to only have the categories I needed for my research. The categories include species, date_collected, year, and geometry. By doing this it helped me better understand how large my sample size will be for this experiment.
+
+After I created this new data set, I filtered out the two states that I will be looking at, California and Arizona. Once that was done I graphed the data into three separate rows and columns.
 
 ## Results
 

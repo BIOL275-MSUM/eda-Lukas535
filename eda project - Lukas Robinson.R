@@ -11,6 +11,7 @@ library(elevatr)
 library(USAboundaries)
 
 #list of plant species in united states
+
 list <- BIEN_list_country(country = "United States")
 
 # three flowering plant species in Arizona -----------------------------------
@@ -60,8 +61,15 @@ us_states() %>%
 
 #elevation point data
 
-all_data %>% 
-  get_elev_point()
+elevation_point<-all_data %>% 
+  get_elev_point() 
+  
+  ggplot() +
+  geom_jitter(mapping = aes(x = species, y = elevation, color = year), alpha = .5)
+
+#mean data
+
+
 
 #Citation
 
