@@ -40,7 +40,11 @@ After I created this new data set, I filtered out the two states that I will be 
    Botanical Information and Ecology Network Database. R
    package version 1.2.4.
    https://CRAN.R-project.org/package=BIEN
-  
+   
+2. RStudio Team (2020). RStudio: Integrated Development Environment for
+   R. RStudio, PBC, Boston, MA URL http://www.rstudio.com/
+   
+   
 ## References
 
 
