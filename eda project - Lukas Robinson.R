@@ -1,5 +1,5 @@
 
-# load packages -----------------------------------------------------------
+#load packages -----------------------------------------------------------
 
 library(tidyverse)
 library(BIEN)
@@ -58,7 +58,9 @@ us_states() %>%
   geom_sf() +
   geom_sf(mapping = aes(color = species, shape = year),
           data = all_data) +
-  facet_grid(year ~ species)
+  facet_grid(year ~ species) +
+  guides(color = "none") +
+  guides(shape = "none")
 
 #elevation point data
 
@@ -150,6 +152,8 @@ average_latitude <-
 #Citation
 
 citation("BIEN")
+
+citation("elevatr")
 
 R.Version()
 
