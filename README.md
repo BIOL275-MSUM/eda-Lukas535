@@ -1,9 +1,12 @@
-Climate Changes Affect on Plant Species
-================
-Lukas Robinson
-2021-04-11
 
-## R Markdown
+<img src="https://www2.mnstate.edu/uploadedImages/Content/Marketing/logos/MSUM_Signature_Vert_Color.jpg" alt="MSUM logo" width="200" style="float:right"/>
+
+# Climate Changes Effect on Plant Species
+
+Lukas Robinson & Chris Merkord
+
+Biosciences Department, Minnesota State University Moorhead, 1104 7th
+Avenue South, Moorhead, MN 56563 USA
 
 ## Abstract
 
@@ -27,6 +30,23 @@ area. I will be using the Botanical Information and Ecology Network
 data presented.
 
 ## Introduction
+
+Climate change here on Earth is at an alarming stage, with a steady
+increase in atmospheric carbon dioxide affecting how plants
+photosynthesis, to the unbalanced situations in climatic conditions,
+some places prolonged droughts and in others increased flooding. These
+issues are causing major problems for plant species worldwide. Climate
+change is defined as a long-term change in the average weather patterns
+that have come to define Earth’s local, regional and global climates.
+Just with this definition, we can hypothesis that as climate change
+slowly changes Earth’s local, regional and global climates plant species
+will be affected in some way.
+
+<img src="images/Encelia_farinosa.jpg" width="224"/>
+
+<img src="images/Phacelia Distans.jpg" width="252"/>
+
+<img src="images/Rafinesquia neomexicana.jpg.crdownload" width="222"/>
 
 ## Methods
 
@@ -78,21 +98,21 @@ this to see how the mean latitude of these species has changed.
 ![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 Figure 1. A map displaying the distributions of the three plant species
-in Arizona and California for the years 1995, 2005, 2015.
+in Arizona and California for the years 1995, 2005, and 2015.
 
 ![](README_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
-Figure 2. A jitter plot displaying the different elevations of the three
-plant species over the years 1995, 2005, and 2015.
+Figure 2. A jitter plot displaying the different elevations and means of
+the three plant species over the years 1995, 2005, and 2015.
 
 ![](README_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
-Figure 3. A jitter plot displaying the different latitudes of the three
-plant species over the years 1995, 2005, 2015.
+Figure 3. A jitter plot displaying the different latitudes and means of
+the three plant species over the years 1995, 2005, and 2015.
 
 ## Discussion
 
-## Literature Cited
+## References
 
 1.  Brian Maitner (2020). BIEN: Tools for Accessing the Botanical
     Information and Ecology Network Database. R package version 1.2.4.
@@ -108,3 +128,12 @@ plant species over the years 1995, 2005, 2015.
 4.  R Core Team (2020). R: A language and environment for statistical
     computing. R Foundation for Statistical Computing, Vienna, Austria.
     URL <https://www.R-project.org/>
+
+5.  Wickham et al., (2019). Welcome to the tidyverse. Journal of Open
+    Source Software, 4(43), 1686, <https://doi.org/10.21105/joss.01686>
+
+6.  He, X., Burgess, K., Yang, X., Ahrends, A., Gao, L., & Li, D. (2019,
+    March 11). Upward elevation and Northwest range shifts for Alpine
+    Meconopsis species in The Himalaya–hengduan Mountains region.
+    Retrieved April 13, 2021, from
+    <https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5034>

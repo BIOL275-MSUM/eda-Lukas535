@@ -153,8 +153,13 @@ average_latitude <-
 
 citation("BIEN")
 
+citation("tidyverse")
+
 citation("elevatr")
+
+citation("maps")
 
 R.Version()
 
 RStudio.Version()
+
