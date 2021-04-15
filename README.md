@@ -15,10 +15,12 @@ data on plant distribution, abundance, and traits, with the goal of
 predicting the effects of climate change on plant species. This project
 will analyze how the distribution, abundance, elevation, and latitude of
 three different plant species found in the Arizona and California area
-changed over two decades.
+change over two decades.
 
-I will be using the BIEN package to look at all of the data and will be
-the data presented in this project.
+The data being used in this project was collected from the BIEN package
+found in RStudio. Different graphs were made with this data to summarize
+how climate change has been affecting these certain plant species over
+time.
 
 ## Introduction
 
@@ -56,14 +58,14 @@ feet.
 
 For this project, all the data was analyzed and manipulated using
 RStudio (RStudio Team 2020). The plant species latitude, date collected,
-and year data was acquired from the Botanical Information and Ecology
+and year data were acquired from the Botanical Information and Ecology
 Network (BIEN 2021). This data was obtained using the R package known as
 BIEN (Maitner, 2020). The elevation data used in this experiment was
 acquired from the elevatr package (Hollister J.W. 2020) found in
 RStudio.
 
 No special access was required to access these resources I just needed
-to download the package into R Studio before being able to look at the
+to download the packages into R Studio before being able to look at the
 data. azstateparks.com was used to narrow down the search for a good
 plant species to study.
 
@@ -71,8 +73,8 @@ plant species to study.
 
 After first loading in all of the required packages, data was first
 prepared for analysis by filtering through all the plant species in the
-BIEN package to only the three plant species being observed in the
-experiment.
+BIEN package to only the three plant species being observed in this
+project.
 
 Once the species were filtered out the three data sets were then bound
 together into one and simplified into a data set to only have the
@@ -126,6 +128,15 @@ shifting their ranges to higher elevations or higher latitudes”
 (Burgress et al, 2019). This directly correlates with the elevation and
 latitude data found in the Phacelia and Rafinesquia species observed in
 this project.
+
+The trend being displayed in figures 3 and 4 proves that certain plant
+species are needing to migrate to other places where the weather fits
+their needs of survival. This means that climate change is certainly
+changing the average weather patterns of Earth’s global climate and
+affecting plant species worldwide. As the temperature in Arizona and
+California keeps rising the Phacelia and Rafinesquia plant species are
+moving to higher elevations to get to a cooler temperature in order to
+thrive
 
 ## References
 
