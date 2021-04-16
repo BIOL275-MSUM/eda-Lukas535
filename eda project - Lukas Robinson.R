@@ -153,6 +153,10 @@ average_latitude <-
 
 citation("BIEN")
 
+citation("ggplot2")
+
+citation("dplyr")
+
 citation("tidyverse")
 
 citation("elevatr")

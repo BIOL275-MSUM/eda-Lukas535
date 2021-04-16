@@ -19,8 +19,11 @@ change over two decades.
 
 The data being used in this project was collected from the BIEN package
 found in RStudio. Different graphs were made with this data to summarize
-how climate change has been affecting these certain plant species over
-time.
+how climate change has affected these certain plant species over time.
+
+I found that as Arizona and California’s climates change over time and
+get warmer some plant species could be migrating to higher elevations to
+reach a cooler climate.
 
 ## Introduction
 
@@ -47,10 +50,10 @@ elevation, and latitudes change over two decades.
 <img src="images/RN.jpg" width="310"/>
 
 Figure 1. This shows the three plant species being observed in this
-experiment. Encelia Farinosa (left) and are very common, Phacelia
-Distans (middle) found typically between 1,000 and 4,000 feet, and
-Rafinesquia Neomexicana (right) found typically between 200 and 3,000
-feet.
+experiment. Encelia Farinosa (top) and are very common, Phacelia Distans
+(middle) found typically between 1,000 and 4,000 feet, and Rafinesquia
+Neomexicana (bottom) found typically between 200 and 3,000 feet. Source
+azstateparks.com
 
 ## Methods
 
@@ -104,39 +107,38 @@ this to see how the mean latitude of these species has changed.
 
 ![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
-Figure 2. A map displaying the distributions of the three plant species
-in Arizona and California for the years 1995, 2005, and 2015.
+Figure 2. Occurrences of the three plant species in the BIEN data set
+over time
 
 ![](README_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
-Figure 3. A jitter plot displaying the different elevations and means of
-the three plant species over the years 1995, 2005, and 2015.
+Figure 3. Differences in mean elevation over time of the three plant
+species.
 
 ![](README_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
-Figure 4. A jitter plot displaying the different latitudes and means of
-the three plant species over the years 1995, 2005, and 2015.
+Figure 4. Differences in mean latitude over time of the three plant
+species.
 
 ## Discussion
 
 Figure 3 and 4 shows a general increase in the elevations and latitudes
-of the Phacelia Distant and Rafinesquia Neomexicana plant species over
-the two decades. In a research article dedicated to looking at the
-upward elevation and northwest range shifts of alpine plant species it
-stated that “climate change may impact the distribution of species by
-shifting their ranges to higher elevations or higher latitudes”
-(Burgress et al, 2019). This directly correlates with the elevation and
-latitude data found in the Phacelia and Rafinesquia species observed in
-this project.
+of the Phacelia Distans and Rafinesquia Neomexicana plant species over
+the two decades. This result is in line with another study looking at
+the upward elevation and northwest range shifts of alpine plant species
+stating that climate change could be impacting the distribution of
+species by shifting their ranges to higher elevations or higher
+latitudes due to rising temperatures (He et al, 2019). This directly
+correlates with the elevation and latitude data found in the Phacelia
+and Rafinesquia species observed in this project.
 
 The trend being displayed in figures 3 and 4 proves that certain plant
-species are needing to migrate to other places where the weather fits
+species are needing to migrate to other places where the climate fits
 their needs of survival. This means that climate change is certainly
 changing the average weather patterns of Earth’s global climate and
-affecting plant species worldwide. As the temperature in Arizona and
-California keeps rising the Phacelia and Rafinesquia plant species are
-moving to higher elevations to get to a cooler temperature in order to
-thrive
+affecting plant species worldwide. As the climate changes in Arizona and
+California the Phacelia and Rafinesquia plant species may be moving to
+higher elevations to get to a cooler temperature.
 
 ## References
 
@@ -144,22 +146,28 @@ thrive
     Information and Ecology Network Database. R package version 1.2.4.
     <https://CRAN.R-project.org/package=BIEN>
 
-2.  RStudio Team (2020). RStudio: Integrated Development Environment for
-    R. RStudio, PBC, Boston, MA URL <http://www.rstudio.com/>
+2.  Hadley Wickham, Romain François, Lionel Henry and Kirill Müller
+    (2020). dplyr: A Grammar of Data Manipulation. R package version
+    1.0.2. <https://CRAN.R-project.org/package=dplyr>
 
-3.  Hollister, J.W. (2020). elevatr: Access Elevation Data from Various
-    APIs. R package version 0.3.1.
-    <https://CRAN.R-project.org/package=elevatr/>
-
-4.  R Core Team (2020). R: A language and environment for statistical
-    computing. R Foundation for Statistical Computing, Vienna, Austria.
-    URL <https://www.R-project.org/>
-
-5.  Wickham et al., (2019). Welcome to the tidyverse. Journal of Open
-    Source Software, 4(43), 1686, <https://doi.org/10.21105/joss.01686>
-
-6.  He, X., Burgess, K., Yang, X., Ahrends, A., Gao, L., & Li, D. (2019,
+3.  He, X., Burgess, K., Yang, X., Ahrends, A., Gao, L., & Li, D. (2019,
     March 11). Upward elevation and Northwest range shifts for Alpine
     Meconopsis species in The Himalaya–hengduan Mountains region.
     Retrieved April 13, 2021, from
     <https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5034>
+
+4.  Hollister, J.W. (2020). elevatr: Access Elevation Data from Various
+    APIs R package version 0.3.1.
+    <https://CRAN.R-project.org/package=elevatr/>
+
+5.  H. Wickham. ggplot2: Elegant Graphics for Data Analysis.
+    Springer-Verlag New York, 2016.Hollister, J.W. (2020). elevatr:
+    Access Elevation Data from Various APIs. R package version 0.3.1.
+    <https://CRAN.R-project.org/package=elevatr/>
+
+6.  R Core Team (2020). R: A language and environment for statistical
+    computing. R Foundation for Statistical Computing, Vienna, Austria.
+    URL <https://www.R-project.org/>
+
+7.  RStudio Team (2020). RStudio: Integrated Development Environment for
+    R. RStudio, PBC, Boston, MA URL <http://www.rstudio.com/>
