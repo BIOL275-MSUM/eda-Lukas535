@@ -122,23 +122,29 @@ species.
 
 ## Discussion
 
-Figure 3 and 4 shows a general increase in the elevations and latitudes
+Figure 3 and 4 show a general increase in the elevations and latitudes
 of the Phacelia Distans and Rafinesquia Neomexicana plant species over
 the two decades. This result is in line with another study looking at
-the upward elevation and northwest range shifts of alpine plant species
-stating that climate change could be impacting the distribution of
-species by shifting their ranges to higher elevations or higher
-latitudes due to rising temperatures (He et al, 2019). This directly
-correlates with the elevation and latitude data found in the Phacelia
-and Rafinesquia species observed in this project.
+the upward elevation and northwest range shifts of alpine plant species.
+This study stated that climate change could be impacting the
+distribution of species by shifting their ranges to higher elevations or
+higher latitudes due to rising temperatures (He et al, 2019). This
+directly correlates with the elevation and latitude data found in the
+Phacelia and Rafinesquia species observed in this project.
 
 The trend being displayed in figures 3 and 4 proves that certain plant
-species are needing to migrate to other places where the climate fits
-their needs of survival. This means that climate change is certainly
-changing the average weather patterns of Earth’s global climate and
-affecting plant species worldwide. As the climate changes in Arizona and
-California the Phacelia and Rafinesquia plant species may be moving to
+species could be needing to migrate to other places where the climate
+fits their needs of survival. As the climate changes in Arizona and
+California, the Phacelia and Rafinesquia plant species may be moving to
 higher elevations to get to a cooler temperature.
+
+The fact that 2 of the 3 species observed in this project showed an
+increase in their elevation and latitude brings up the question of how
+many other plant species are being affected by these rising
+temperatures. If plant species are needing to migrate to other climates
+and are unsuccessful in doing so that could have a big impact on the
+plant biodiversity of some places and hurt ecosystems around the world
+(Jump et al, 2012).
 
 ## References
 
@@ -165,9 +171,14 @@ higher elevations to get to a cooler temperature.
     Access Elevation Data from Various APIs. R package version 0.3.1.
     <https://CRAN.R-project.org/package=elevatr/>
 
-6.  R Core Team (2020). R: A language and environment for statistical
+6.  Jump, A., Huang, T., & Chou, C. (2012, May 03). Rapid altitudinal
+    migration of Mountain plants in Taiwan and its implications for high
+    altitude biodiversity. Retrieved April 17, 2021, from
+    <https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2011.06984.x>
+
+7.  R Core Team (2020). R: A language and environment for statistical
     computing. R Foundation for Statistical Computing, Vienna, Austria.
     URL <https://www.R-project.org/>
 
-7.  RStudio Team (2020). RStudio: Integrated Development Environment for
+8.  RStudio Team (2020). RStudio: Integrated Development Environment for
     R. RStudio, PBC, Boston, MA URL <http://www.rstudio.com/>
