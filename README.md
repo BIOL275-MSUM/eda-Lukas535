@@ -122,17 +122,17 @@ species.
 
 ## Discussion
 
-Figure 3 and 4 show a general increase in the elevations and latitudes
+Figures 3 and 4 show a general increase in the elevations and latitudes
 of the Phacelia Distans and Rafinesquia Neomexicana plant species over
 the two decades. This result is in line with another study looking at
-the upward elevation and northwest range shifts of alpine plant species.
-This study stated that climate change could be impacting the
-distribution of species by shifting their ranges to higher elevations or
-higher latitudes due to rising temperatures (He et al, 2019). This
-directly correlates with the elevation and latitude data found in the
-Phacelia and Rafinesquia species observed in this project.
+the upward elevation and northwest range shifts of alpine plant species
+(He et al, 2019). That study stated that climate change could be
+impacting the distribution of species by shifting their ranges to higher
+elevations or higher latitudes due to rising temperatures. This directly
+correlates with the elevation and latitude data found in the Phacelia
+and Rafinesquia species observed in this project.
 
-The trend being displayed in figures 3 and 4 proves that certain plant
+The trend being displayed in figures 3 and 4 suggests that certain plant
 species could be needing to migrate to other places where the climate
 fits their needs of survival. As the climate changes in Arizona and
 California, the Phacelia and Rafinesquia plant species may be moving to
@@ -145,6 +145,11 @@ temperatures. If plant species are needing to migrate to other climates
 and are unsuccessful in doing so that could have a big impact on the
 plant biodiversity of some places and hurt ecosystems around the world
 (Jump et al, 2012).
+
+Although my results are suggestive there are other possible explanations
+for this outcome. It could be possible in 2005 and 2015 people only
+recorded the Phacelia and Rafinesquia species at higher latitudes and
+elevations causing the means to rise.
 
 ## References
 
