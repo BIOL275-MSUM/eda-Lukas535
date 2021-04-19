@@ -3,7 +3,7 @@
 
 # Climate Change’s Effect on Plant Species
 
-Lukas Robinson
+Lukas Robinson \| Chris Merkord
 
 Biosciences Department, Minnesota State University Moorhead, 1104 7th
 Avenue South, Moorhead, MN 56563 USA
