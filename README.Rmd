@@ -35,7 +35,7 @@ These issues are causing major problems for plant species worldwide.
 Climate change is defined as a long-term change in the average weather patterns that have come to define Earth's local, regional and global climates.
 Just with this definition, we can hypothesis that as climate change slowly changes Earth's local, regional and global climates plant species will be affected in some way but how?
 
-To show how climate change is effecting these plants I will be taking three different species and examine how their abundance, distribution, elevation, and latitudes change over two decades.
+To show how climate change is affecting these plants I will be taking three different species and examine how their abundance, distribution, elevation, and latitudes change over two decades.
 
 <img src="images/Encelia_farinosa.jpg" width="254"/>
 
@@ -247,11 +247,11 @@ This directly correlates with the elevation and latitude data found in the Phace
 The trend being displayed in figures 3 and 4 suggests that certain plant species could be needing to migrate to other places where the climate fits their needs of survival.
 As the climate changes in Arizona and California, the Phacelia and Rafinesquia plant species may be moving to higher elevations to get to a cooler temperature.
 
-The fact that 2 of the 3 species observed in this project showed an increase in their elevation and latitude brings up the question of how many other plant species are being affected by these rising temperatures.
-If plant species are needing to migrate to other climates and are unsuccessful in doing so that could have a big impact on the plant biodiversity of some places and hurt ecosystems around the world (Jump et al, 2012).
-
 Although my results are suggestive there are other possible explanations for this outcome.
 It could be possible in 2005 and 2015 people only recorded the Phacelia and Rafinesquia species at higher latitudes and elevations causing the means to rise.
+
+The fact that 2 of the 3 species observed in this project showed an increase in their elevation and latitude brings up the question of how many other plant species are being affected by these rising temperatures.
+If plant species are needing to migrate to other climates and are unsuccessful in doing so that could have a big impact on the plant biodiversity of some places and hurt ecosystems around the world (Jump et al, 2012).
 
 ## References
 

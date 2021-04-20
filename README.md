@@ -39,7 +39,7 @@ climates. Just with this definition, we can hypothesis that as climate
 change slowly changes Earth’s local, regional and global climates plant
 species will be affected in some way but how?
 
-To show how climate change is effecting these plants I will be taking
+To show how climate change is affecting these plants I will be taking
 three different species and examine how their abundance, distribution,
 elevation, and latitudes change over two decades.
 
@@ -138,6 +138,11 @@ fits their needs of survival. As the climate changes in Arizona and
 California, the Phacelia and Rafinesquia plant species may be moving to
 higher elevations to get to a cooler temperature.
 
+Although my results are suggestive there are other possible explanations
+for this outcome. It could be possible in 2005 and 2015 people only
+recorded the Phacelia and Rafinesquia species at higher latitudes and
+elevations causing the means to rise.
+
 The fact that 2 of the 3 species observed in this project showed an
 increase in their elevation and latitude brings up the question of how
 many other plant species are being affected by these rising
@@ -145,11 +150,6 @@ temperatures. If plant species are needing to migrate to other climates
 and are unsuccessful in doing so that could have a big impact on the
 plant biodiversity of some places and hurt ecosystems around the world
 (Jump et al, 2012).
-
-Although my results are suggestive there are other possible explanations
-for this outcome. It could be possible in 2005 and 2015 people only
-recorded the Phacelia and Rafinesquia species at higher latitudes and
-elevations causing the means to rise.
 
 ## References
 
